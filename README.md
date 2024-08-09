@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o Jonathan 👋</h1>
+<h1 align="left">Olá, me chamo Jonathan 👋</h1>
 
 ###
 

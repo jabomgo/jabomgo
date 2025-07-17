@@ -5,12 +5,11 @@
   Desenvolvedor com foco em aplicações web<br>
   Atualmente participando do projeto na linha de <strong>Segurança </strong> – <strong><a href="https://ayty.org/" target="_blank">AYTY</a> / CODATA</strong><br>
   Também atuei na linha de <strong>Transformação Digital</strong> no mesmo projeto - <a href="https://ayty.org/" target="_blank">AYTY</a> / CODATA<br>
-  Interesse em <strong>cibersegurança</strong>
 </p>
 
 ---
 
-### 🧰 Tecnologias que tenho conhecimento
+### 🧰 Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />

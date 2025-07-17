@@ -3,17 +3,10 @@
 <p align="left">
   Estudante de Sistemas de Informação na <strong>UFPB</strong><br>
   Desenvolvedor com foco em aplicações web<br>
-  Atualmente participando do projeto na linha de <strong>Segurança da Informação</strong> – <strong><a href="https://ayty.org/" target="_blank">AYTY</a> / CODATA</strong><br>
+  Atualmente participando do projeto na linha de <strong>Segurança </strong> – <strong><a href="https://ayty.org/" target="_blank">AYTY</a> / CODATA</strong><br>
   Também atuei na linha de <strong>Transformação Digital</strong> no mesmo projeto - <a href="https://ayty.org/" target="_blank">AYTY</a> / CODATA<br>
   Interesse em <strong>cibersegurança</strong>
 </p>
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jonathan-neves-ribeiro-72554025b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-</div>
 
 ---
 

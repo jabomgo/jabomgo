@@ -2,7 +2,7 @@
 
 <p align="left">
   Estudante de Sistemas de Informação na <strong>UFPB</strong><br>
-  Desenvolvedor com foco em aplicações web.<br>
+  Desenvolvedor com foco em aplicações web<br>
   Atualmente participando do projeto na linha de <strong>Segurança da Informação</strong> – <strong><a href="https://ayty.org/" target="_blank">AYTY</a> / CODATA</strong><br>
   Também atuei na linha de <strong>Transformação Digital</strong> no mesmo projeto - <a href="https://ayty.org/" target="_blank">AYTY</a> / CODATA<br>
   Interesse em <strong>cibersegurança</strong>
